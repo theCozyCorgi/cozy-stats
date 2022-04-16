@@ -1,1 +1,1 @@
-const stats = {"zones":{}}
+let stats = {"zones":{}}
