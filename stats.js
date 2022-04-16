@@ -1,3 +1,1 @@
-const stats = JSON.parte('/../stat.json');
-print(stats);
-
+const stats = {"zones":{}}
